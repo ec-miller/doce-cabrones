@@ -4,4 +4,6 @@ This is the homepage for the Doce Cabrones Fantasy Football League.
 
 ## Website Creation Progress
 
-Currently awaiting design mockups.
+TODO:
+- [ ] Choose a UI element framework (e.g. Material UI)
+- [ ] Generate design mockups

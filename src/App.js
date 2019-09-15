@@ -1,5 +1,5 @@
 import React from 'react';
-import damon from './damon.jpg';
+import damon from './damon.png';
 import './App.css';
 
 function App() {
