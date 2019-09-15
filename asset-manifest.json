@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doce-cabrones/static/css/main.17b88157.chunk.css",
+    "main.js": "/doce-cabrones/static/js/main.29148f7d.chunk.js",
+    "main.js.map": "/doce-cabrones/static/js/main.29148f7d.chunk.js.map",
+    "runtime~main.js": "/doce-cabrones/static/js/runtime~main.2195e946.js",
+    "runtime~main.js.map": "/doce-cabrones/static/js/runtime~main.2195e946.js.map",
+    "static/js/2.6147f74a.chunk.js": "/doce-cabrones/static/js/2.6147f74a.chunk.js",
+    "static/js/2.6147f74a.chunk.js.map": "/doce-cabrones/static/js/2.6147f74a.chunk.js.map",
+    "index.html": "/doce-cabrones/index.html",
+    "precache-manifest.66ecb585b00fc4773451ae0052a853bb.js": "/doce-cabrones/precache-manifest.66ecb585b00fc4773451ae0052a853bb.js",
+    "service-worker.js": "/doce-cabrones/service-worker.js",
+    "static/css/main.17b88157.chunk.css.map": "/doce-cabrones/static/css/main.17b88157.chunk.css.map",
+    "static/media/damon.png": "/doce-cabrones/static/media/damon.02ac1922.png"
+  }
+}
